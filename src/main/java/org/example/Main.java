@@ -5,6 +5,7 @@ public class Main {
 
         Button button = new Button();
         button.pushButton();
+        button.deleteButton();
 
     }
 }
